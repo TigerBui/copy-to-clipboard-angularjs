@@ -14,7 +14,7 @@
   "author": "TigerBui",
   "license": "MIT",
   "dependencies": {
-    "angular": "^1.4.9"
+    "angular": "^1.8.0"
   },
   "devDependencies": {
     "@babel/core": "^7.8.4",
